@@ -1,0 +1,13 @@
+{
+  "version": "8.2.5-r6.5",
+  "notes": "",
+  "file": "latest.zip",
+  "sha256": "c1de5d9129d02598ef216c8d0c54599fdc91703014422af3d0f732b5c1571642",
+  "publishedAt": "2026-09-25T18:16:43.098Z",
+  "channel": "stable",
+  "target": "client",
+  "format": 3,
+  "transport": "github-public",
+  "repository": "myaiworks2001-afk/qo-ai-updates",
+  "branch": "main"
+}
