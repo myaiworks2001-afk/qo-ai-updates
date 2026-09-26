@@ -1,9 +1,9 @@
 {
-  "version": "8.2.5-r7.0",
-  "notes": "",
+  "version": "8.2.8-r7.2",
+  "notes": "yaxshilandi",
   "file": "latest.zip",
-  "sha256": "fee7894f2cb38e93210a975c6ad2eef15d7f6fa21229b08d980575a5a25c8ffe",
-  "publishedAt": "2026-09-25T18:25:47.657Z",
+  "sha256": "61e2f1da8c15c31d3660d64f70155bea13bbbae11ef682e7dea9aaa45e0d2661",
+  "publishedAt": "2026-09-26T03:43:47.532Z",
   "channel": "stable",
   "target": "client",
   "format": 3,
