@@ -1,9 +1,9 @@
 {
-  "version": "8.2.7-r7.2",
-  "notes": "",
+  "version": "8.2.8-r7.2",
+  "notes": "yaxshilash",
   "file": "latest.zip",
   "sha256": "61c7a789adba5932319bafd48a5c02c4d3c9140ebba940ac1e6113f39272006e",
-  "publishedAt": "2026-09-26T03:36:04.276Z",
+  "publishedAt": "2026-09-26T03:41:10.354Z",
   "channel": "stable",
   "target": "owner",
   "format": 3,
