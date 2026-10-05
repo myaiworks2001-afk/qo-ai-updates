@@ -1,9 +1,9 @@
 {
   "version": "8.2.9-r7.3",
-  "notes": "startup",
+  "notes": "ha",
   "file": "latest.zip",
   "sha256": "88c0b7bf4afe1e5196ed329fcf5be4ee735b81967d28817125312a3ed84918d3",
-  "publishedAt": "2026-10-05T12:20:45.536Z",
+  "publishedAt": "2026-10-05T12:22:32.462Z",
   "channel": "stable",
   "target": "owner",
   "format": 3,
