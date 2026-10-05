@@ -1,9 +1,9 @@
 {
-  "version": "8.2.8-r7.2",
-  "notes": "hahaha",
+  "version": "8.2.9-r7.3",
+  "notes": "aha",
   "file": "latest.zip",
-  "sha256": "61e2f1da8c15c31d3660d64f70155bea13bbbae11ef682e7dea9aaa45e0d2661",
-  "publishedAt": "2026-09-26T03:46:17.907Z",
+  "sha256": "ef42f87973000c8d0ca36c1c1e63bf44a955626fb0dbf0e1889a59d4e5f41a43",
+  "publishedAt": "2026-10-05T12:24:08.768Z",
   "channel": "stable",
   "target": "client",
   "format": 3,
